@@ -1,15 +1,13 @@
-**********************************************************************
-### Encabezado
+Al responder mal la primera pregunata 
+historia
+***7:45 suena el telefono timbran 1, 2, 3, 4, 5, 6, veces; al parecer nadie esta en casa todo se vuelve cada vez mas irreal un ambiente de dolor invade en esta  ciudad de 78000 habitanes ¿ que es lo que esta pasando ? 
+para continuar con dicha investigacion los numeros amigos 
 
-Texto de la viñeta. Si la viñeta propuesta corresponde una continuación de opción incorrecta debe incluir la explicación de porque se ha equivocado el jugador y qué consecuencia negativa tendrá esto en desarrollo de la historia.
+problema
+para continuar con dicha investigacion los numeros amigos ...
 
-Problema matemático en coherencia con el texto de la viñeta
+rtas
 
-Respuesta correcta del problema matemático
+explicación
 
-Respuesta incorrecta del problema matemático
-
-Solución del problema matemático
-
-Autor o autores de la viñeta
-**********************************************************************
+integrantes
